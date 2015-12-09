@@ -1,1 +1,1 @@
-You can see my SPA here : http://rasakos.github.io/SPA-with-Angular/#/
+You can see my SPA here : http://costaschaitas.github.io/SPA-with-Angular
